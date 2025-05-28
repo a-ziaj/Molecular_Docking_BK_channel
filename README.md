@@ -3,8 +3,7 @@
 ## Overview
 
 This directory contains a bash script that automates molecular docking of one and two ligand molecules, taken from a list, to the human BK channel using **AutoDock Vina** and **Vinardo** scoring functions.
-This script follows the guidelines from the AutoDock Vina manual, available at:
-The script adheres to the official [AutoDock Vina documentation](https://autodock-vina.readthedocs.io/en/latest/introduction.html) guidelines.
+This script follows the guidelines from the AutoDock Vina manual, available at: [AutoDock Vina documentation](https://autodock-vina.readthedocs.io/en/latest/introduction.html) guidelines.
 
 ## Directory structure
 ├── dock.sh   *# Main docking script - see Script WorkFlow section for details*   <br>
