@@ -1,0 +1,49 @@
+AutoDock Vina 36dd023-mod
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# J. Eberhardt, D. Santos-Martins, A. F. Tillack, and S. Forli  #
+# AutoDock Vina 1.2.0: New Docking Methods, Expanded Force      #
+# Field, and Python Bindings, J. Chem. Inf. Model. (2021)       #
+# DOI 10.1021/acs.jcim.1c00203                                  #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, J. Comp. Chem. (2010)                         #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see https://github.com/ccsb-scripps/AutoDock-Vina for  #
+# more information.                                             #
+#################################################################
+
+Scoring function : vina
+Rigid receptor: protein.pdbqt
+Ligands:
+  - 2657-25-2.pdbqt
+  - 2657-25-2.pdbqt
+Grid center: X 0 Y 0 Z 0
+Grid size  : X 30 Y 30 Z 30
+Grid space : 0.375
+Exhaustiveness: 32
+CPU: 0
+Verbosity: 1
+
+Computing Vina grid ... done.
+Performing docking (random seed: -315154503) ... 
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1       -11.85          0          0
+   2       -11.73      2.937      6.092
+   3       -11.63      3.043      8.081
+   4       -11.61      3.015      5.091
+   5       -11.58      3.001      8.092
+   6       -11.58      2.451      6.626
+   7       -11.53        2.7       6.32
+   8       -11.52      1.254      5.834
+   9       -11.52      2.729      6.867
