@@ -71,7 +71,7 @@ The receptor file `protein.pdbqt` was prepared from the BK channel crystal struc
    - Fetches the SDF file for the CID
 
 4. **Ligand Preparation**
-   - For each SDF file runs `scrub.py` and `mk_prepare_ligand.py` to prep ligand for the docking
+   - For each SDF file runs `mk_prepare_ligand.py` to prep ligand for the docking
 
 5. **Molecular Docking**
    For each prepped ligand, performs docking against a BK channel (`protein.pdbqt`) with `--exhaustiveness=32` using two scoring functions and three ligand copy configurations:
