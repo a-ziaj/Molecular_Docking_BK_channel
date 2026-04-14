@@ -17,8 +17,19 @@ This script follows the guidelines from the AutoDock Vina manual, available at: 
 
 ## Installing dependencies
 `environment_docking.yml` contains all dependencies and packages needed for dock.sh to work. Set up the environment by running:
-  ```bash
+```bash
   conda env create -f environment_docking.yml
+```
+
+Two additional Python scripts are required that are not available via conda:
+
+- **scrub.py** — from [molscrub](https://github.com/forlilab/molscrub), used for protonation and 3D coordinate generation
+- **mk_prepare_ligand.py** — from [Meeko](https://github.com/forlilab/Meeko), used to convert ligands to PDBQT format for AutoDock Vina
+
+Install both into your environment from source:
+```bash
+  git clone https://github.com/forlilab/molscrub.git && cd molscrub && git checkout develop && pip install -e . && cd ..
+  git clone https://github.com/forlilab/Meeko.git && cd Meeko && pip install -e . && cd ..
 ```
 
 ## Protein Preparation
