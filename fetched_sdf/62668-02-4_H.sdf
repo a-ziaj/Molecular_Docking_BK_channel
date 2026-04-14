@@ -1,0 +1,186 @@
+5712032
+     RDKit          3D
+
+ 30 31  0  0  1  0  0  0  0  0999 V2000
+   -1.2446   -2.7835    0.0054 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2539   -1.4332    0.4623 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3706   -0.6461   -0.1946 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0991   -0.8529    0.1653 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9530   -1.0513   -1.4059 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8250    0.5438    0.3997 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9592   -0.4269    1.1057 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2804    0.1512    0.8212 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9676   -0.2969   -1.9989 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8390    1.2980   -0.1946 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7847    1.1379    1.6791 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0797   -0.2866   -0.2431 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4106    0.8766   -1.3929 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0487    1.6932    1.4628 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3441    0.2684   -0.4592 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8270    1.2596    0.3921 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4688   -3.2030    0.4126 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4453   -1.4723    1.5418 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3500   -0.7755   -0.8903 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6180   -1.9648   -1.8934 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3849    0.8923    1.3315 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6853   -0.4790    2.1573 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4104   -0.6275   -2.9346 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1806    2.2157    0.2767 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1934    1.4923    2.5203 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7337   -1.0702   -0.9123 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1996    1.4630   -1.8559 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4242    2.4640    2.1307 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9522   -0.0773   -1.2912 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8101    1.6909    0.2232 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  3  5  2  0
+  3  6  1  0
+  4  7  2  0
+  5  9  1  0
+  6 10  2  0
+  7  8  1  0
+  8 11  2  0
+  8 12  1  0
+  9 13  2  0
+ 10 13  1  0
+ 11 14  1  0
+ 12 15  2  0
+ 14 16  2  0
+ 15 16  1  0
+  1 17  1  0
+  2 18  1  0
+  4 19  1  0
+  5 20  1  0
+  6 21  1  0
+  7 22  1  0
+  9 23  1  0
+ 10 24  1  0
+ 11 25  1  0
+ 12 26  1  0
+ 13 27  1  0
+ 14 28  1  0
+ 15 29  1  0
+ 16 30  1  0
+M  END
+>  <PUBCHEM_COMPOUND_CID>  (1) 
+5712032
+
+>  <PUBCHEM_COMPOUND_CANONICALIZED>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_COMPLEXITY>  (1) 
+209
+
+>  <PUBCHEM_CACTVS_HBOND_ACCEPTOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_HBOND_DONOR>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_ROTATABLE_BOND>  (1) 
+3
+
+>  <PUBCHEM_CACTVS_SUBSKEYS>  (1) 
+AAADccBwIAAAAAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAAAABQAAAGgAACAAADBSgmAIwAIAAAgCAAiBCAAACAAAgAAAIiAAACIgINiKAERCAcAAkwAEImAeAwKAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+>  <PUBCHEM_IUPAC_OPENEYE_NAME>  (1) 
+(E)-1,3-diphenylprop-2-en-1-ol
+
+>  <PUBCHEM_IUPAC_CAS_NAME>  (1) 
+(E)-1,3-diphenyl-2-propen-1-ol
+
+>  <PUBCHEM_IUPAC_NAME_MARKUP>  (1) 
+(<I>E</I>)-1,3-diphenylprop-2-en-1-ol
+
+>  <PUBCHEM_IUPAC_NAME>  (1) 
+(E)-1,3-diphenylprop-2-en-1-ol
+
+>  <PUBCHEM_IUPAC_SYSTEMATIC_NAME>  (1) 
+(E)-1,3-diphenylprop-2-en-1-ol
+
+>  <PUBCHEM_IUPAC_TRADITIONAL_NAME>  (1) 
+(E)-1,3-diphenylprop-2-en-1-ol
+
+>  <PUBCHEM_IUPAC_INCHI>  (1) 
+InChI=1S/C15H14O/c16-15(14-9-5-2-6-10-14)12-11-13-7-3-1-4-8-13/h1-12,15-16H/b12-11+
+
+>  <PUBCHEM_IUPAC_INCHIKEY>  (1) 
+ORACYDGVNJGDMI-VAWYXSNFSA-N
+
+>  <PUBCHEM_XLOGP3_AA>  (1) 
+3.4
+
+>  <PUBCHEM_EXACT_MASS>  (1) 
+210.104465066
+
+>  <PUBCHEM_MOLECULAR_FORMULA>  (1) 
+C15H14O
+
+>  <PUBCHEM_MOLECULAR_WEIGHT>  (1) 
+210.27
+
+>  <PUBCHEM_SMILES>  (1) 
+C1=CC=C(C=C1)/C=C/C(C2=CC=CC=C2)O
+
+>  <PUBCHEM_CONNECTIVITY_SMILES>  (1) 
+C1=CC=C(C=C1)C=CC(C2=CC=CC=C2)O
+
+>  <PUBCHEM_CACTVS_TPSA>  (1) 
+20.2
+
+>  <PUBCHEM_MONOISOTOPIC_WEIGHT>  (1) 
+210.104465066
+
+>  <PUBCHEM_TOTAL_CHARGE>  (1) 
+0
+
+>  <PUBCHEM_HEAVY_ATOM_COUNT>  (1) 
+16
+
+>  <PUBCHEM_ATOM_DEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ATOM_UDEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_DEF_STEREO_COUNT>  (1) 
+1
+
+>  <PUBCHEM_BOND_UDEF_STEREO_COUNT>  (1) 
+0
+
+>  <PUBCHEM_ISOTOPIC_ATOM_COUNT>  (1) 
+0
+
+>  <PUBCHEM_COMPONENT_COUNT>  (1) 
+1
+
+>  <PUBCHEM_CACTVS_TAUTO_COUNT>  (1) 
+-1
+
+>  <PUBCHEM_COORDINATE_TYPE>  (1) 
+1
+5
+255
+
+>  <PUBCHEM_BONDANNOTATIONS>  (1) 
+2  1  3
+10  13  8
+11  14  8
+12  15  8
+14  16  8
+15  16  8
+3  5  8
+3  6  8
+5  9  8
+6  10  8
+8  11  8
+8  12  8
+9  13  8
+
+>  <ScrubInfo>  (1) 
+{"isomerGroup": 0, "isomerId": 0, "confId": 0, "nr_conformers:": 1, "nr_isomers:": 1}
+
+$$$$

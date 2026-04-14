@@ -1,0 +1,360 @@
+Directory created: fetched_sdf
+Directory created: vina_results
+Directory created: vinardo_results
+start
+Tue Apr 14 01:43:14 AM BST 2026
+37951-13-6 is a CAS_ID
+5355469 is CID
+5355469
+  -OEChem-04132620432D
+
+ 41 42  0     0  0  0  0  0  0999 V2000
+    6.0010   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 37951-13-6 molecule (vina)
+Docked one 37951-13-6 molecule (vinardo)
+Docked two 37951-13-6 molecules (vina)
+Docked two 37951-13-6 molecules (vinardo)
+Docked four 37951-13-6 molecules (vina)
+Docked four 37951-13-6 molecules (vinardo)
+614-47-1 is a CAS_ID
+637760 is CID
+637760
+  -OEChem-04132622002D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+    2.0000    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 614-47-1 molecule (vina)
+Docked one 614-47-1 molecule (vinardo)
+Docked two 614-47-1 molecules (vina)
+Docked two 614-47-1 molecules (vinardo)
+Docked four 614-47-1 molecules (vina)
+Docked four 614-47-1 molecules (vinardo)
+94-41-7 is a CAS_ID
+637760 is CID
+637760
+  -OEChem-04132622222D
+
+ 28 29  0     0  0  0  0  0  0999 V2000
+    2.0000    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 94-41-7 molecule (vina)
+Docked one 94-41-7 molecule (vinardo)
+Docked two 94-41-7 molecules (vina)
+Docked two 94-41-7 molecules (vinardo)
+Docked four 94-41-7 molecules (vina)
+Docked four 94-41-7 molecules (vinardo)
+62668-02-4 is a CAS_ID
+5712032 is CID
+5712032
+  -OEChem-04132622442D
+
+ 30 31  0     1  0  0  0  0  0999 V2000
+    2.0000    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 62668-02-4 molecule (vina)
+Docked one 62668-02-4 molecule (vinardo)
+Docked two 62668-02-4 molecules (vina)
+Docked two 62668-02-4 molecules (vinardo)
+Docked four 62668-02-4 molecules (vina)
+Docked four 62668-02-4 molecules (vinardo)
+2657-25-2 is a CAS_ID
+5282362 is CID
+5282362
+  -OEChem-04132623122D
+
+ 29 30  0     0  0  0  0  0  0999 V2000
+    2.8660   -3.5950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 2657-25-2 molecule (vina)
+Docked one 2657-25-2 molecule (vinardo)
+Docked two 2657-25-2 molecules (vina)
+Docked two 2657-25-2 molecules (vinardo)
+Docked four 2657-25-2 molecules (vina)
+Docked four 2657-25-2 molecules (vinardo)
+1776-30-3 is a CAS_ID
+5376979 is CID
+5376979
+  -OEChem-04132623432D
+
+ 30 31  0     0  0  0  0  0  0999 V2000
+    2.5369   -0.5950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 1776-30-3 molecule (vina)
+Docked one 1776-30-3 molecule (vinardo)
+Docked two 1776-30-3 molecules (vina)
+Docked two 1776-30-3 molecules (vinardo)
+Docked four 1776-30-3 molecules (vina)
+Docked four 1776-30-3 molecules (vinardo)
+3516-95-8 is a CAS_ID
+77052 is CID
+77052
+  -OEChem-04142600232D
+
+ 31 32  0     0  0  0  0  0  0999 V2000
+    3.4030    0.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 3516-95-8 molecule (vina)
+Docked one 3516-95-8 molecule (vinardo)
+Docked two 3516-95-8 molecules (vina)
+Docked two 3516-95-8 molecules (vinardo)
+Docked four 3516-95-8 molecules (vina)
+Docked four 3516-95-8 molecules (vinardo)
+4197-97-1 is a CAS_ID
+6474295 is CID
+6474295
+  -OEChem-04142600532D
+
+ 31 32  0     0  0  0  0  0  0999 V2000
+    2.5369   -0.5950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 4197-97-1 molecule (vina)
+Docked one 4197-97-1 molecule (vinardo)
+Docked two 4197-97-1 molecules (vina)
+Docked two 4197-97-1 molecules (vinardo)
+Docked four 4197-97-1 molecules (vina)
+Docked four 4197-97-1 molecules (vinardo)
+18956-16-6 is a CAS_ID
+154102 is CID
+154102
+  -OEChem-04142601452D
+
+ 34 35  0     0  0  0  0  0  0999 V2000
+    6.0010   -0.5950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 18956-16-6 molecule (vina)
+Docked one 18956-16-6 molecule (vinardo)
+Docked two 18956-16-6 molecules (vina)
+Docked two 18956-16-6 molecules (vinardo)
+Docked four 18956-16-6 molecules (vina)
+Docked four 18956-16-6 molecules (vinardo)
+15131-80-3 is a CAS_ID
+638277 is CID
+638277
+  -OEChem-04142602392D
+
+ 30 31  0     0  0  0  0  0  0999 V2000
+    2.5369   -1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 2 (avg. 2.000 per mol)
+nr conformers:  2 (avg. 1.000 per isomer, 2.000 per mol)
+Processed only the first molecule of multiple molecule input.
+Use --multimol_prefix and/or --multimol_outdir to process all molecules in 15131-80-3_H.sdf.
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 15131-80-3 molecule (vina)
+Docked one 15131-80-3 molecule (vinardo)
+Docked two 15131-80-3 molecules (vina)
+Docked two 15131-80-3 molecules (vinardo)
+Docked four 15131-80-3 molecules (vina)
+Docked four 15131-80-3 molecules (vinardo)
+961-29-5 is a CAS_ID
+638278 is CID
+638278
+  -OEChem-04142603192D
+
+ 31 32  0     0  0  0  0  0  0999 V2000
+    2.5369   -0.9050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 2 (avg. 2.000 per mol)
+nr conformers:  2 (avg. 1.000 per isomer, 2.000 per mol)
+Processed only the first molecule of multiple molecule input.
+Use --multimol_prefix and/or --multimol_outdir to process all molecules in 961-29-5_H.sdf.
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 961-29-5 molecule (vina)
+Docked one 961-29-5 molecule (vinardo)
+Docked two 961-29-5 molecules (vina)
+Docked two 961-29-5 molecules (vinardo)
+Docked four 961-29-5 molecules (vina)
+Docked four 961-29-5 molecules (vinardo)
+487-52-5 is a CAS_ID
+5281222 is CID
+5281222
+  -OEChem-04142603592D
+
+ 32 33  0     0  0  0  0  0  0999 V2000
+    2.5369   -0.9050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 2 (avg. 2.000 per mol)
+nr conformers:  2 (avg. 1.000 per isomer, 2.000 per mol)
+Processed only the first molecule of multiple molecule input.
+Use --multimol_prefix and/or --multimol_outdir to process all molecules in 487-52-5_H.sdf.
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 487-52-5 molecule (vina)
+Docked one 487-52-5 molecule (vinardo)
+Docked two 487-52-5 molecules (vina)
+Docked two 487-52-5 molecules (vinardo)
+Docked four 487-52-5 molecules (vina)
+Docked four 487-52-5 molecules (vinardo)
+25515-46-2 is a CAS_ID
+5280960 is CID
+5280960
+  -OEChem-04142604542D
+
+ 32 33  0     0  0  0  0  0  0999 V2000
+    6.0010   -0.9050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 2 (avg. 2.000 per mol)
+nr conformers:  2 (avg. 1.000 per isomer, 2.000 per mol)
+Processed only the first molecule of multiple molecule input.
+Use --multimol_prefix and/or --multimol_outdir to process all molecules in 25515-46-2_H.sdf.
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 25515-46-2 molecule (vina)
+Docked one 25515-46-2 molecule (vinardo)
+Docked two 25515-46-2 molecules (vina)
+Docked two 25515-46-2 molecules (vinardo)
+Docked four 25515-46-2 molecules (vina)
+Docked four 25515-46-2 molecules (vinardo)
+60-82-2 is a CAS_ID
+4788 is CID
+4788
+  -OEChem-04142605592D
+
+ 34 35  0     0  0  0  0  0  0999 V2000
+    3.4030    0.5950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 60-82-2 molecule (vina)
+Docked one 60-82-2 molecule (vinardo)
+Docked two 60-82-2 molecules (vina)
+Docked two 60-82-2 molecules (vinardo)
+Docked four 60-82-2 molecules (vina)
+Docked four 60-82-2 molecules (vinardo)
+37951-13-6 is a CAS_ID
+5355469 is CID
+5355469
+  -OEChem-04142607042D
+
+ 41 42  0     0  0  0  0  0  0999 V2000
+    6.0010   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+Scrub completed.
+Summary of what happened:
+Input molecules supplied: 1
+mols processed: 1, skipped by rdkit: 0, failed: 0
+nr isomers (tautomers and acid/base conjugates): 1 (avg. 1.000 per mol)
+nr conformers:  1 (avg. 1.000 per isomer, 1.000 per mol)
+Input molecules processed: 1, skipped: 0
+PDBQT files written: 1
+PDBQT files not written due to error: 0
+Input molecules with errors: 0
+Docked one 37951-13-6 molecule (vina)
+Docked one 37951-13-6 molecule (vinardo)
+Docked two 37951-13-6 molecules (vina)
+Docked two 37951-13-6 molecules (vinardo)
+Docked four 37951-13-6 molecules (vina)
+Docked four 37951-13-6 molecules (vinardo)
+everything done
+Tue Apr 14 01:23:51 PM BST 2026
